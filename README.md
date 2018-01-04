@@ -22,7 +22,7 @@
 
 ### Visualizing the data
 
-#### Number of incidents vs. Days of the week 
+#### Number of incidents with the days of the week 
 
 ![alt text](https://image.ibb.co/hTokmb/Days.png)
 
